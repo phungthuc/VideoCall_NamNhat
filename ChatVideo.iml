@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/Webcam_Java/bridj-0.7.0.jar!/" />
+    <libelement value="jar://$USER_HOME$/Webcam_Java/slf4j-api-1.7.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Webcam_Java/webcam-capture-0.3.12.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-16" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="bridj-0.7.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Webcam_Java/bridj-0.7.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.7.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Webcam_Java/slf4j-api-1.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webcam-capture-0.3.12.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Webcam_Java/webcam-capture-0.3.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
